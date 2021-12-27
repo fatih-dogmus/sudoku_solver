@@ -1,0 +1,7 @@
+Executable : C:\Users\fatih\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\fatih\Documents\sudoku_solver\android\app\.cxx\cmake\debug\armeabi-v7a
+solver
+jvmArgs : 
+

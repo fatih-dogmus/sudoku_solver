@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "C:/Users/fatih/Documents/sudoku_solver/android/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/fatih/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/fatih/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsolver_EXPORTS -I../../../../../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\fatih\\Documents\\sudoku_solver\\android\\CMakeLists.txt",
+    "C:\\Users\\fatih\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\fatih\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\fatih\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\fatih\\Documents\\sudoku_solver\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\fatih\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\fatih\\Documents\\sudoku_solver\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "solver-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\fatih\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\fatih\\Documents\\sudoku_solver\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" solver",
+      "buildType": "debug",
+      "toolchain": "479813338",
+      "abi": "armeabi-v7a",
+      "artifactName": "solver",
+      "files": [
+        {
+          "src": "C:\\Users\\fatih\\Documents\\sudoku_solver\\solver\\solver.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\fatih\\Documents\\sudoku_solver\\build\\app\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libsolver.so",
+      "runtimeFiles": [
+        "C:\\Users\\fatih\\Documents\\sudoku_solver\\android\\app\\src\\main\\jniLibs\\armeabi-v7a\\libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "479813338": {
+      "cppCompilerExecutable": "C:\\Users\\fatih\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

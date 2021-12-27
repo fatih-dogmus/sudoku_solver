@@ -1,0 +1,3 @@
+C:/Users/fatih/Documents/sudoku_solver/android/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/solver.dir
+C:/Users/fatih/Documents/sudoku_solver/android/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/fatih/Documents/sudoku_solver/android/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
